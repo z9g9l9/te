@@ -2,7 +2,7 @@ public class ComplexMethod {
 
     public String intToEnglishValue(int i) {
         if (i == 1) {
-            return "One";
+            return "One123";
         }
         if (i == 2) {
             return "Two";
